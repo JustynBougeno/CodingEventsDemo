@@ -13,7 +13,7 @@ namespace CodingEventsDemo.Models
 
         public EventType Type { get; set; }
 
-        public int Id { get; }
+        public int Id { get; set; }
      
 
         public Event()

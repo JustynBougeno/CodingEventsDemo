@@ -6,7 +6,7 @@
 
 
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <Folder Include="Views\Events\" />
     <Folder Include="Data\" />
     <Folder Include="ViewModels\" />
@@ -15,7 +15,7 @@
     <None Remove="Pomelo.EntityFrameworkCore.MySql" />
     <None Remove="Pomelo.EntityFrameworkCore.MySql.Json.Microsoft" />
     <None Remove="Microsoft.EntityFrameworkCore.Design" />
-  </ItemGroup>
+  </ItemGroup>-->
   <ItemGroup>
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.5">
