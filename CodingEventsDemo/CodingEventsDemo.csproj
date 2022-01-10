@@ -23,4 +23,10 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\EventCategory\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\EventCategory\" />
+  </ItemGroup>
 </Project>
